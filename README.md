@@ -72,7 +72,7 @@ $ python main.py ...
 
 - __Show delay stats__ of the last stop.
 
-    `$ python main.py analyze --group-by train_hash --agg-func last [..]/stations.csv [..]/trains.csv --stat delay_box_plot`
+    `$ python main.py analyze --group-by train_hash --agg-func last [..]/stations.csv [..]/trains.csv --stat delay_boxplot`
 
 - __Show daily train count__ grouped by railway companies.
 
